@@ -6,5 +6,5 @@
 ### Aggregate Functions 
 ### Aggregate Functions in a Case Statement
 ### PowerBI Dashboard
-## More information into the comment lines in sql.file 
+## More information into the comment lines in YoutubeAnalysis.sql
 Based on the Kaggle Dataset: https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023
